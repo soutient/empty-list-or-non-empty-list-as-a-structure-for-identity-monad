@@ -26,6 +26,11 @@ data ListArity (n :: Arity) a where
 
 The term becomes Cons 1 (Cons 5 (Null :: ListArity Zero Int)) :: ListArity One Int. Pattern matching enforces arity: destructuring Cons h t proves the tail t has some arity n (here Zero for innermost), while Null rejects basepoint access.
 
+```diff
+- n=0: unpointed empty
++ n=1: pointed cons
+```
+
 • Stability  : Experimental. I invite you to coauthorship the completion of this project.
 
 • Maintainer : retablies@hotmail.com
