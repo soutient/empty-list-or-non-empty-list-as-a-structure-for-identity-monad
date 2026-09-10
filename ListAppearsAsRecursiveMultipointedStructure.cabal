@@ -19,15 +19,11 @@ executable cql-compiler
 
 source-repository head
   type:     git
-  location: https://github.com/soutient/cql-path-to-sql-compiler
+  location: https://github.com/soutient/empty-list-or-non-empty-list-as-a-structure-for-identity-monad
 
 extra-source-files:
     README.md
     CHANGELOG.md
-
-source-repository head
-  type: git
-  location: https://github.com/soutient/ListAppearsAsRecursiveMultipointedStructure
 
 library
   exposed-modules:
