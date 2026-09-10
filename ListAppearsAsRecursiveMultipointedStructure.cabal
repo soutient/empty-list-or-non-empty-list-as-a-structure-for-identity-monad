@@ -1,26 +1,20 @@
 cabal-version: 2.2
-
--- This file has been generated from package.yaml by hpack version 0.39.1.
---
--- see: https://github.com/sol/hpack
-
 name:           ListAppearsAsRecursiveMultipointedStructure
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/ListAppearsAsRecursiveMultipointedStructure#readme>
-homepage:       https://github.com/githubuser/ListAppearsAsRecursiveMultipointedStructure#readme
-bug-reports:    https://github.com/githubuser/ListAppearsAsRecursiveMultipointedStructure/issues
-author:         Author Alexis Soutient
-maintainer:     retablies@hotmail.com
+synopsis:       Empty list or non empty list
 license:        BSD-2-Clause
 license-file:   LICENSE
+author:         Alexis Soutient
+category:       Researchig of monads
 build-type:     Simple
+
 extra-source-files:
     README.md
     CHANGELOG.md
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/ListAppearsAsRecursiveMultipointedStructure
+  location: https://github.com/soutient/ListAppearsAsRecursiveMultipointedStructure
 
 library
   exposed-modules:
