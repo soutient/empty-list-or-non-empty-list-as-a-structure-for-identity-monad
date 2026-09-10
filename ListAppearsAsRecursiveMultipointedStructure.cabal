@@ -11,7 +11,6 @@ homepage:       https://github.com/githubuser/ListAppearsAsRecursiveMultipointed
 bug-reports:    https://github.com/githubuser/ListAppearsAsRecursiveMultipointedStructure/issues
 author:         Author Alexis Soutient
 maintainer:     retablies@hotmail.com
-copyright:      2026 Author Alexis Soutient
 license:        BSD-2-Clause
 license-file:   LICENSE
 build-type:     Simple
