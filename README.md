@@ -4,7 +4,7 @@
 
 Cons {head = 1, tail = Cons {head = 5, tail = null }} : List Int
 
-Where the list term Cons {head = 1, tail = Cons {head = 5, tail = null }} : List Int and its null tails can be represented using n=0 (unpointed) for empty lists and n=1 (single-pointed) for cons cells within the C_multi category framework shown at https://mathoverflow.net/questions/254605.
+Where the list term Cons {head = 1, tail = Cons {head = 5, tail = null }} : List Int and its null tails can be interpreted using n=0 (unpointed) for empty lists and n=1 (single-pointed) for cons cells within the C_multi category framework shown at https://mathoverflow.net/questions/254605.
 
 This means that the list appears as Recursive Multipointed Structure:
 
